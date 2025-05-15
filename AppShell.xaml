@@ -14,7 +14,7 @@
     <ShellContent
         Title="Dodaj porcję nawodnienia"
         ContentTemplate="{DataTemplate local:AddPortionWaterPage}"
-        Route="AddPortionWater"
+        Route="AddPortionWaterPage"
         />
 
 </Shell>

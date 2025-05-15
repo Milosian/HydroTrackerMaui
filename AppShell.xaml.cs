@@ -5,7 +5,7 @@
         public AppShell()
         {
             InitializeComponent();
-            Routing.RegisterRoute("AddPortionWater", typeof(AddPortionWaterPage));
+            //Routing.RegisterRoute("AddPortionWater", typeof(AddPortionWaterPage));
         }
     }
 }
